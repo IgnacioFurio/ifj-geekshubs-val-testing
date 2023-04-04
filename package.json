@@ -1,0 +1,23 @@
+{
+  "name": "ifj-geekshubs-val-testing",
+  "version": "1.0.0",
+  "description": "Testing first session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgnacioFurio/ifj-geekshubs-val-testing.git"
+  },
+  "keywords": [],
+  "author": "Ignacio Furió",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgnacioFurio/ifj-geekshubs-val-testing/issues"
+  },
+  "homepage": "https://github.com/IgnacioFurio/ifj-geekshubs-val-testing#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
